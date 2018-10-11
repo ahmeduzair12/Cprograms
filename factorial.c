@@ -14,5 +14,5 @@ void main(){
 	scanf("%d", &x);
 	res = fact(x);
 	printf("%d\n",res);
-
+	printf("GG");
 }
