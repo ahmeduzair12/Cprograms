@@ -17,4 +17,5 @@ void main(){
 
 	res = fibo(x);
 	printf("%d\n", fibo(x));
+	printf("Good bye");
 }
